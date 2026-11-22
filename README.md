@@ -1,5 +1,4 @@
 # Expense-Budget-Splitter
-# Expense & Budget Splitter
 
 A command-line expense tracking, bill-splitting, and monthly budget management engine written in **C++17** and backed by **SQLite3**. Built and tested inside **GitHub Codespaces**.
 
